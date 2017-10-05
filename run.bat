@@ -1,1 +1,1 @@
-python3 tkinter-table.pyw &
+python3 tkinter-table.py &
