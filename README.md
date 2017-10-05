@@ -7,7 +7,8 @@
 
 ## 使用
 
-### 环境 安装了Python3的Windows、Mac、Linux
+### 环境 
+安装了Python3的Windows、Mac、Linux
 
 ### 步骤
 - 下载代码
