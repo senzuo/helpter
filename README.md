@@ -14,3 +14,5 @@
 - Windows用户执行`run.bat`文件
 - 根据命令行提示安装相应模块 eg. `pip3 install tkinter`
 - 直到没有错误提示为止即可
+
+![eg](截图.png)
