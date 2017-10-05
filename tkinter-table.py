@@ -104,7 +104,7 @@ scrollBar.pack(side=RIGHT, fill=Y)
 # Treeview组件，6列，显示表头，带垂直滚动条
 tree = Treeview(frame, columns=('c1', 'c2', 'c3', 'c4'),
                 show="headings",
-                height=30,
+                height=40,
                 yscrollcommand=scrollBar.set)
 w -= 25
 
