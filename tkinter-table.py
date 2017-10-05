@@ -16,12 +16,13 @@ import _thread
 
 
 def whileTrue():
-    i = 1  # . an hour 60 min
+    i = 60  # . an hour 60 min
     while True:
-        time.sleep(2)
+        time.sleep(60)
         i -= 1
         checkUpdate()
         if i==0:
+            i = 60
             reminder.show_reminder()
 
 
